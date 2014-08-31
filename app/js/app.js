@@ -17,6 +17,7 @@ if (!String.prototype.format) {
   };
 }
 
+
 var lookAroundApp = angular.module("lookAroundApp", [
     "lookAroundApp.services",
     "lookAroundApp.controllers",
